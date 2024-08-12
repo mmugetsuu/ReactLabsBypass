@@ -1,0 +1,30 @@
+{
+  "name": "reactlabsbypass",
+  "version": "1.0.0",
+  "description": "ReactLabsBypass is a tool designed to bypass DDoS protection mechanisms implemented by ReactLabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmugetsuu/ReactLabsBypass.git"
+  },
+  "keywords": [
+    "bypass",
+    "spoof",
+    "reactlabs",
+    "arizona",
+    "rodina"
+  ],
+  "author": "mmugetsuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmugetsuu/ReactLabsBypass/issues"
+  },
+  "homepage": "https://github.com/mmugetsuu/ReactLabsBypass#readme",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "axios": "^1.7.3"
+  }
+}
