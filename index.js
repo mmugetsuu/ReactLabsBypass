@@ -1,5 +1,3 @@
-const { bypass } = require('./main/bypass');
+const bypass = require('./main/bypass');
 
-module.exports = {
-  bypass,
-};
+module.exports = bypass;

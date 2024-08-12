@@ -1,6 +1,6 @@
 {
   "name": "reactlabsbypass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ReactLabsBypass is a tool designed to bypass DDoS protection mechanisms implemented by ReactLabs",
   "main": "index.js",
   "scripts": {
